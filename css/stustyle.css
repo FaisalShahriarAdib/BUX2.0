@@ -1,0 +1,28 @@
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color: #fff;
+}
+.active {
+  background-color: #225470;
+  color: #fff;
+}
+
+.current{
+  margin-top: 20px;
+  padding: 10px;
+  background: #f4f4f4;
+  border:#ccc dotted 1px;
+  margin: 20px 0 10px 0;
+}
+
+
+
+.container{
+  width: 60%;
+  margin: 0 auto;
+  overflow: auto;
+}
+ 
+
