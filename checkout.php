@@ -30,7 +30,7 @@ session_start();
   <div class="container mt-5">
     <div class="row">
     <div class="col-sm-6 offset-sm-3 jumbotron">
-    <h3 class="mb-5">Welcome to E-Learning Payment Page</h3>
+    <h3 class="mb-5">Welcome to BUX 2.0 Payment Page</h3>
     <form method="post" action="./paymentdone.php" id="myform">
       <div class="form-group row">
        <label for="ORDER_ID" class="col-sm-4 col-form-label">Order ID</label>
